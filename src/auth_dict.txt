@@ -1,0 +1,6 @@
+{
+	"token":"<Paste your token here>",
+	"token_secret":"<Paste your token secret here>",
+	"consumer_key":"<Paste your consumer key here>",
+	"consumer_secret":"<Paste your comsumer secret here>"	
+}
